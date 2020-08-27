@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&family=Playfair+Display&display=swap');
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#container{
+    background-color: yellowgreen;
+    height: 631px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: center/cover no-repeat url("/static/contact.jpg");
+    opacity: 0.85;
+    font-family: 'Playfair Display', serif;
+}
+
+#container h1{
+    margin: 3px;
+    padding: 2px;
+    margin-top: -214px;
+    font-size: 29px;
+    font-family: 'Playfair Display', serif;
+}
+
+.myinp{
+    margin: 1px 0px;
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-bottom: 64px;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.inpute{
+    margin: 2px;
+    padding: 5px;
+    border-radius: 8px;
+    outline: none;
+    border: 0.7px solid #5a5a5a;
+    font-family: 'Playfair Display', serif;
+    
+}
+
+.btn{
+    margin: 2px 2px;
+    padding: 8px 2px;
+    width: 73px;
+    display: block;
+    margin: auto;
+    border-radius: 13px;
+    margin-top: 6px;
+    font-family: 'Playfair Display', serif;
+}
+
+.btn:hover{
+    background-color: lightgrey;
+    cursor: pointer;
+    font-family: 'Playfair Display', serif;
+}
