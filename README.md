@@ -1,6 +1,6 @@
 ![](website.jpg)
 
- For full Website: https://www.linkedin.com/posts/activity-6704752961291079680-E1tL
+ For full Website: www.manistonk.com
 
 This is a web development project for **Dance Academy** which contains home section and contact section only.
 A preson can get information regarding dance academy on home section and contact section contains form which is very useful during admission.
